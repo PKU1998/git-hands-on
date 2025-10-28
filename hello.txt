@@ -1,1 +1,3 @@
-"learning Git Step By Step"
+"this is a new feature!" 
+"this is a new feature!" 
+"this is a new feature2!" 
